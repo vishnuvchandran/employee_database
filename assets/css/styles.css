@@ -1,0 +1,18 @@
+.field-mandatory {
+    color: #f44336;
+}
+label.error{
+	color:red;
+}
+.loadermodal {
+    background-color: #231f1f38;
+    width: 100%;
+    height: -webkit-fill-available;
+    position: absolute;
+    z-index: 9999;
+    text-align: center;
+    padding-top: 16%;
+    color: #fff;
+    font-weight: bold;
+    display:none;
+}
